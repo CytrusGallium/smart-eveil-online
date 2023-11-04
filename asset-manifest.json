@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f08c47b.css",
-    "main.js": "/static/js/main.c7cf8967.js",
+    "main.css": "/static/css/main.050a2150.css",
+    "main.js": "/static/js/main.50ac6fcb.js",
     "static/js/498.ee5d530f.chunk.js": "/static/js/498.ee5d530f.chunk.js",
     "static/js/703.f3a594cb.chunk.js": "/static/js/703.f3a594cb.chunk.js",
-    "static/js/513.6c18cb16.chunk.js": "/static/js/513.6c18cb16.chunk.js",
+    "static/js/513.d1c2b428.chunk.js": "/static/js/513.d1c2b428.chunk.js",
     "static/js/787.40ddaa1a.chunk.js": "/static/js/787.40ddaa1a.chunk.js",
     "static/media/Lingerie Sales Point Background.mp4": "/static/media/Lingerie Sales Point Background.785c73c9ff8ba336a5ff.mp4",
     "static/media/Daily Shopping Sales Point BG.mp4": "/static/media/Daily Shopping Sales Point BG.83d84796330ecaca6fe4.mp4",
@@ -28,21 +28,21 @@
     "static/media/Logo-One-Piece.png": "/static/media/Logo-One-Piece.e6b6ae8399734b7dd2d3.png",
     "static/media/Logo-Dar-Mima-Black.png": "/static/media/Logo-Dar-Mima-Black.fca358d5a16676bda01a.png",
     "static/media/Logo-Dar-Mima.png": "/static/media/Logo-Dar-Mima.e606d11f44f936781068.png",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "static/media/Logo-Technology-By-Smashicons.png": "/static/media/Logo-Technology-By-Smashicons.9d82e172be8789139aa8.png",
     "static/media/Logo-Arabasta.png": "/static/media/Logo-Arabasta.4f5d88f0b46dba442c76.png",
     "static/media/Logo-Shopping-Cart.png": "/static/media/Logo-Shopping-Cart.1eeb7517268e6d181aad.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/index.html",
-    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.6f08c47b.css.map": "/static/css/main.6f08c47b.css.map",
-    "main.c7cf8967.js.map": "/static/js/main.c7cf8967.js.map",
+    "main.050a2150.css.map": "/static/css/main.050a2150.css.map",
+    "main.50ac6fcb.js.map": "/static/js/main.50ac6fcb.js.map",
     "498.ee5d530f.chunk.js.map": "/static/js/498.ee5d530f.chunk.js.map",
     "703.f3a594cb.chunk.js.map": "/static/js/703.f3a594cb.chunk.js.map",
-    "513.6c18cb16.chunk.js.map": "/static/js/513.6c18cb16.chunk.js.map",
+    "513.d1c2b428.chunk.js.map": "/static/js/513.d1c2b428.chunk.js.map",
     "787.40ddaa1a.chunk.js.map": "/static/js/787.40ddaa1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f08c47b.css",
-    "static/js/main.c7cf8967.js"
+    "static/css/main.050a2150.css",
+    "static/js/main.50ac6fcb.js"
   ]
 }
